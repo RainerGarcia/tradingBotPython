@@ -6,8 +6,8 @@ from binance.client import Client
 from datetime import datetime, timedelta
 
 #-----------------------------Binance Testnet-----------------------------------
-API_KEY = "199c420078b950fc6b4e9c42d5083fe5cde27fdf14b52c5a94a2f3a37f153fd2"
-API_SECRET = "d74500f1eafc05175b83cbc9d31ecad4ae1af259982661e8538bc9a5983f610c"
+API_KEY = ""
+API_SECRET = ""
 client = Client(API_KEY, API_SECRET, tld='com', testnet=True)
 interval = client.KLINE_INTERVAL_1MINUTE
 symbolTicker = 'BTCUSDT'
