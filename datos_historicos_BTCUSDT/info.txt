@@ -1,0 +1,1 @@
+si lo requieren, esta es una informacion de varios datos historicos de los precios de bitcoin generados con un script y usando datos de binance
