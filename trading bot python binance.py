@@ -9,13 +9,10 @@ import colorama
 from colorama import Fore
 #Variables
 symbol = "BTCUSDT"
-#----------------------------Binance futures------------------------------------
-#API_KEY = "B4zR8xuEb19jug5vwrDEmjqhmZrAgHcKxJ7ZHxv3E7896Zy48rzfHDuwwfCBKK8z"
-#API_SECRET = "wDJwThdEK0V5Y6SQ6ubTlV1RcbRvpzTWOhNBbPEnn4I7Qg6Rv2affNMlNWwJLsNr"
 
 #-----------------------------Binance Testnet-----------------------------------
-API_KEY = "199c420078b950fc6b4e9c42d5083fe5cde27fdf14b52c5a94a2f3a37f153fd2"
-API_SECRET = "d74500f1eafc05175b83cbc9d31ecad4ae1af259982661e8538bc9a5983f610c"
+API_KEY = ""
+API_SECRET = ""
 precio= 0.00
 histogram_last = 0.00
 PAUSE = True
