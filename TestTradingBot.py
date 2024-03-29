@@ -49,8 +49,8 @@ pio.renderers.default='browser'
 
 
 # Configura la conexión a Binance Futures
-api_key = 'B4zR8xuEb19jug5vwrDEmjqhmZrAgHcKxJ7ZHxv3E7896Zy48rzfHDuwwfCBKK8z'
-api_secret = 'wDJwThdEK0V5Y6SQ6ubTlV1RcbRvpzTWOhNBbPEnn4I7Qg6Rv2affNMlNWwJLsNr'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret, testnet=False)
 
 # Define el par de trading y el intervalo de tiempo
